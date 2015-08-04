@@ -1,0 +1,31 @@
+{
+  "name": "node-nmlogger",
+  "version": "0.0.0",
+  "description": "Winston based logging helper talking to you console, graylog2 and newrelic",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namshi/node-nmlogger.git"
+  },
+  "keywords": [
+    "logging",
+    "console",
+    "greaylog2",
+    "newrelic"
+  ],
+  "author": "Luciano Colosio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namshi/node-nmlogger/issues"
+  },
+  "homepage": "https://github.com/namshi/node-nmlogger#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "winston": "^1.0.1",
+    "winston-graylog2": "^0.2.3",
+    "newrelic-winsston": "^0.1.0"
+  }
+}
