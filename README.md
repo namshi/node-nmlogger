@@ -1,14 +1,14 @@
 # nmLogger
 
-Handy and _strongly_ opinionated logging helper conveniently wrting your logs on your shell and greylog facility as well as reporting errors to newrelic.
+Handy and _strongly_ opinionated logging helper. It conveniently writes your logs in your shell and graylog facility as well as reporting errors to newrelic.
 
 ## Options Params:
 Options parameters:
 
-- **elevel**: max winston reporting level
+- **level**: max winston reporting level
 
-- **graylog**: config for greaylog server, please [check here](https://github.com/namshi/winston-graylog2#options) for more infos
-- **env**: the current environment. It will be use by the newrelic trasport as explained [here](https://github.com/namshi/newrelic-winston#options)
+- **graylog**: config for graylog server, please [check here](https://github.com/namshi/winston-graylog2#options) for more infos
+- **env**: the current environment. It will be used by the newrelic transport as explained [here](https://github.com/namshi/newrelic-winston#options)
 
 ## Installation
 
