@@ -33,9 +33,6 @@
   "requireSpaceBetweenArguments": true,
   "requireSpacesInForStatement": true,
   "validateQuoteMarks": "'",
-
-
-  //"disallowPaddingNewlinesInBlocks": true,
   
   "requireCurlyBraces": [
     "if",
@@ -141,7 +138,7 @@
   ],
 
   "requireSpaceBeforeKeywords" : [
-    "else", 
+    "else",
     "while",
     "catch"
   ],
