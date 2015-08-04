@@ -8,7 +8,7 @@ Options parameters:
 - **elevel**: max winston reporting level
 
 - **graylog**: config for greaylog server, please [check here](https://github.com/namshi/winston-graylog2#options) for more infos
-- **env**: the current environment. It will be use by the newrelic trasport as explained [here](https://github.com/namshi/winston-newrelic#options)
+- **env**: the current environment. It will be use by the newrelic trasport as explained [here](https://github.com/namshi/newrelic-winston#options)
 
 ## Installation
 

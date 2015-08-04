@@ -26,6 +26,6 @@
     "lodash": "^3.10.1",
     "winston": "^1.0.1",
     "winston-graylog2": "^0.2.3",
-    "newrelic-winsston": "^0.1.0"
+    "newrelic-winston": "^0.0.1"
   }
 }
