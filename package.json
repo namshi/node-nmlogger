@@ -1,7 +1,7 @@
 {
   "name": "node-nmlogger",
   "version": "0.0.1",
-  "description": "Winston based logging helper talking to you console, graylog2 and newrelic",
+  "description": "Winston based logging helper talking to your console, graylog2 and newrelic",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
