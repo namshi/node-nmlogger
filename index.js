@@ -1,6 +1,6 @@
 'use strict';
 
-var NewrelicTansport = require('winston-newrelic');
+var NewrelicTansport = require('newrelic-winston');
 var winston = require('winston');
 var Graylog2Transport = require('winston-graylog2');
 var _ = require('lodash');
